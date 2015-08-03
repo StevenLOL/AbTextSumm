@@ -14,6 +14,7 @@ Create a folder in src called jars and put the files as mentioned in the python 
 	stanford-postagger.jar
 
 All these comes from the latest POS tagger from Stanford. 
+A major part of the word graph generation code has been taken from https://github.com/boudinfl/takahe.
 
-**If you use the summarization code, please cite this paper:**
+**If you use the code here, please cite this paper:**
 _Banerjee, Siddhartha, Prasenjit Mitra, and Kazunari Sugiyama_. "Multi-Document Abstractive Summarization Using ILP based Multi-Sentence Compression." Proceedings of the 24th International Joint Conference on Artificial Intelligence (IJCAI 2015), Buenos Aires, Argentina. 2015.
