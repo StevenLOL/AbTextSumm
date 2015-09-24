@@ -15,10 +15,10 @@ A major part of the word graph generation code has been taken from https://githu
 
 The main program is in txtsumm/Example.py.
 Given a passage, it can generate a summary using the following code:
-'''
+```
   list_Sentences=segmentize(passage)
   generateSummaries(list_Sentences, mode="Extractive")
-'''
+```
 
 **If you use the code here, please cite this paper:**
 _Banerjee, Siddhartha, Prasenjit Mitra, and Kazunari Sugiyama. "Multi-Document Abstractive Summarization Using ILP based Multi-Sentence Compression." Proceedings of the 24th International Joint Conference on Artificial Intelligence (IJCAI 2015), Buenos Aires, Argentina. 2015.
