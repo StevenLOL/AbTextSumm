@@ -25,7 +25,6 @@ mode="Abstractive"
 ```
 will run Abstractive summarization with TextRank as the default ranking parameter. However, it requires a language model described earlier. By default, this code runs abstractive summarization. 
 
-
 **If you use the code here, please cite this paper:**
 
-Banerjee, Siddhartha, Prasenjit Mitra, and Kazunari Sugiyama. "Multi-Document Abstractive Summarization Using ILP based Multi-Sentence Compression." Proceedings of the 24th International Joint Conference on Artificial Intelligence (IJCAI 2015), Buenos Aires, Argentina. 2015.
+Banerjee, Siddhartha, Prasenjit Mitra, and Kazunari Sugiyama. _"Multi-Document Abstractive Summarization Using ILP based Multi-Sentence Compression."_ Proceedings of the 24th International Joint Conference on Artificial Intelligence (IJCAI 2015), Buenos Aires, Argentina. 2015.
