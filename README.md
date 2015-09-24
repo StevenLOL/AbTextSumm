@@ -27,4 +27,5 @@ will run Abstractive summarization with TextRank as the default ranking paramete
 
 
 **If you use the code here, please cite this paper:**
-_Banerjee, Siddhartha, Prasenjit Mitra, and Kazunari Sugiyama. "Multi-Document Abstractive Summarization Using ILP based Multi-Sentence Compression." Proceedings of the 24th International Joint Conference on Artificial Intelligence (IJCAI 2015), Buenos Aires, Argentina. 2015.
+
+Banerjee, Siddhartha, Prasenjit Mitra, and Kazunari Sugiyama. "Multi-Document Abstractive Summarization Using ILP based Multi-Sentence Compression." Proceedings of the 24th International Joint Conference on Artificial Intelligence (IJCAI 2015), Buenos Aires, Argentina. 2015.
