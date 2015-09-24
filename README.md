@@ -1,4 +1,4 @@
-# TweetAbSumm
+<h1 align=center>AbTextSumm</h1>
 Abstractive Summarization: Code of the ILP-based algorithm as described in the IJCAI paper
 
 Please note that this code only tackles the summarization component and not the clustering part. 
