@@ -1,5 +1,5 @@
 # TweetAbSumm
-Abstractive Summarization: Code on the IJCAI paper
+Abstractive Summarization: Code of the ILP-based algorithm as described in the IJCAI paper
 
 Please note that this code only tackles the summarization component and not the clustering part. 
 The code takes a list of sentences, or a paragraph and produces an extractive or abstractive summary driven by the parameter "mode".
