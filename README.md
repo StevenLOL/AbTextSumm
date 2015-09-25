@@ -10,6 +10,11 @@ Use any available ARPA format language model and convert to kenlm format as bina
 
 Other several packages required: PuLP for optimization, sklearn, nltk, cpattern, igraph
 Best option is to use Anaconda package. All the above mentioned packages can be installed using pip.
+To install dependencies, use:
+```
+pip install - r requirements.txt
+```
+in the root folder of the project. 
 
 A major part of the word graph generation code has been taken from https://github.com/boudinfl/takahe.
 
