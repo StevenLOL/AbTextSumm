@@ -37,4 +37,4 @@ generateSummaries(list_Sentences, mode="Extractive", length=50)
 
 **If you use the code here, please cite this paper:**
 
-Banerjee, Siddhartha, Prasenjit Mitra, and Kazunari Sugiyama. _"Multi-Document Abstractive Summarization Using ILP based Multi-Sentence Compression."_ Proceedings of the 24th International Joint Conference on Artificial Intelligence (IJCAI 2015), Buenos Aires, Argentina. 2015.
+Siddhartha Banerjee, Prasenjit Mitra, and Kazunari Sugiyama. _"Multi-Document Abstractive Summarization Using ILP based Multi-Sentence Compression."_ Proceedings of the 24th International Joint Conference on Artificial Intelligence (IJCAI 2015), Buenos Aires, Argentina. 2015.
