@@ -1082,8 +1082,18 @@ def retrieveNewSentences(sentences, stopwords, mode=None):
             continue
         paired_parentheses = 0
         quotation_mark_number = 0
-        sentence = ' '.join(label_list[element][1].split("||")[0] for element in path)
-        
+        sentence=''
+        i=0
+        total_in_path=len(path)
+        #print total_in_path
+        for element in path:
+            label= label_list[element][1]
+            #print label, i
+            if i == (total_in_path - 2):
+                sentence = sentence + ' ' + label.split("||")[0]+" "+ label.split("||")[1]
+            else:
+                sentence = sentence + ' ' + label_list[element][1].split("||")[0] 
+            i+=1
         avgSim = avgPairwiseSimilarity(simMatrix, getSentIndices(path, label_list))
         for word in sentence.split():
                 #print word
