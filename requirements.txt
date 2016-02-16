@@ -2,3 +2,4 @@ pulp
 pattern
 python-igraph
 kenlm
+pystemmer
