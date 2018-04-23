@@ -3,3 +3,7 @@ pattern
 python-igraph
 kenlm
 pystemmer
+numpy
+scipy
+networkx
+sklearn
